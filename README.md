@@ -58,4 +58,4 @@ The combination of Vite and React on the frontend delivers a fast, modular, and 
 This project can serve as a strong foundation for more advanced real-time applications such as collaborative tools, live support systems, or multiplayer games. Additional features like user authentication, message timestamps, and chat history can be layered on top of this base architecture with ease.
 
 Overall, this application is a great showcase of how modern web development tools can be combined to deliver seamless and interactive user experiences in real-time.
-*OUTPUT* : 
+*OUTPUT* : ![Image](https://github.com/user-attachments/assets/b8a52063-798d-49fd-a055-5e2f3d6477c3)
